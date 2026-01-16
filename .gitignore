@@ -22,3 +22,7 @@ rad.json
 TestResults.xml
 
 README.md
+ 
+ # pixi environments
+.pixi/*
+!.pixi/config.toml
