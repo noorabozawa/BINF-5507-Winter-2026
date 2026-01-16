@@ -3,3 +3,4 @@ import numpy as np
 
 var = [17, 23, 42, 58, 91]
 
+A = 5+6
